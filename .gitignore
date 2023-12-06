@@ -1,0 +1,14 @@
+# Npm install files
+node_modules
+npm-debug.log
+
+# Config files
+config.js
+
+# Log file
+skynet.txt
+
+# Swap and meta data files
+.DS_Store
+*.swp
+*.swo
